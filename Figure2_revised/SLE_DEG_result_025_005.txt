@@ -1,0 +1,4 @@
+Var1	Freq
+1	down-regulated	997
+2	unchanged	29505
+3	up-regulated	925
