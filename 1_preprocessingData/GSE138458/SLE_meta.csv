@@ -1,0 +1,337 @@
+,name,source,case,studygroup,sledaigroup
+GSM4109027,GSM4109027,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109028,GSM4109028,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109029,GSM4109029,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109030,GSM4109030,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109031,GSM4109031,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109032,GSM4109032,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109033,GSM4109033,Whole Blood,case/control: SLE Case,study group: Low Only,sledai group: Low
+GSM4109034,GSM4109034,Whole Blood,case/control: SLE Case,study group: High Only,sledai group: High
+GSM4109035,GSM4109035,Whole Blood,case/control: SLE Case,study group: High Only,sledai group: High
+GSM4109036,GSM4109036,Whole Blood,case/control: SLE Case,study group: Low Only,sledai group: Low
+GSM4109037,GSM4109037,Whole Blood,case/control: SLE Case,study group: Low Only,sledai group: Low
+GSM4109038,GSM4109038,Whole Blood,case/control: Control,study group: Control,sledai group: no val
+GSM4109039,GSM4109039,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109040,GSM4109040,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109041,GSM4109041,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109042,GSM4109042,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109043,GSM4109043,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109044,GSM4109044,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109045,GSM4109045,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109046,GSM4109046,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109047,GSM4109047,Whole Blood,case/control: SLE Case,study group: High Only,sledai group: High
+GSM4109048,GSM4109048,Whole Blood,case/control: SLE Case,study group: Low Only,sledai group: Low
+GSM4109049,GSM4109049,Whole Blood,case/control: SLE Case,study group: High Only,sledai group: High
+GSM4109050,GSM4109050,Whole Blood,case/control: SLE Case,study group: High Only,sledai group: High
+GSM4109051,GSM4109051,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109052,GSM4109052,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109053,GSM4109053,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109054,GSM4109054,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109055,GSM4109055,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109056,GSM4109056,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109057,GSM4109057,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109058,GSM4109058,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109059,GSM4109059,Whole Blood,case/control: SLE Case,study group: High Only,sledai group: High
+GSM4109060,GSM4109060,Whole Blood,case/control: SLE Case,study group: Low Only,sledai group: Low
+GSM4109061,GSM4109061,Whole Blood,case/control: SLE Case,study group: High Only,sledai group: High
+GSM4109062,GSM4109062,Whole Blood,case/control: Control,study group: Control,sledai group: no val
+GSM4109063,GSM4109063,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109064,GSM4109064,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109065,GSM4109065,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109066,GSM4109066,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109067,GSM4109067,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109068,GSM4109068,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109069,GSM4109069,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109070,GSM4109070,Whole Blood,case/control: SLE Case,study group: High Only,sledai group: High
+GSM4109071,GSM4109071,Whole Blood,case/control: SLE Case,study group: Low Only,sledai group: Low
+GSM4109072,GSM4109072,Whole Blood,case/control: SLE Case,study group: High Only,sledai group: High
+GSM4109073,GSM4109073,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109074,GSM4109074,Whole Blood,case/control: Control,study group: Control,sledai group: no val
+GSM4109075,GSM4109075,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109076,GSM4109076,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109077,GSM4109077,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109078,GSM4109078,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109079,GSM4109079,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109080,GSM4109080,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109081,GSM4109081,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109082,GSM4109082,Whole Blood,case/control: SLE Case,study group: Low Only,sledai group: Low
+GSM4109083,GSM4109083,Whole Blood,case/control: SLE Case,study group: Low Only,sledai group: Low
+GSM4109084,GSM4109084,Whole Blood,case/control: SLE Case,study group: High Only,sledai group: High
+GSM4109085,GSM4109085,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109086,GSM4109086,Whole Blood,case/control: Control,study group: Control,sledai group: no val
+GSM4109087,GSM4109087,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109088,GSM4109088,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109089,GSM4109089,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109090,GSM4109090,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109091,GSM4109091,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109092,GSM4109092,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109093,GSM4109093,Whole Blood,case/control: SLE Case,study group: Low Only,sledai group: Low
+GSM4109094,GSM4109094,Whole Blood,case/control: SLE Case,study group: High Only,sledai group: High
+GSM4109095,GSM4109095,Whole Blood,case/control: SLE Case,study group: Low Only,sledai group: Low
+GSM4109096,GSM4109096,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109097,GSM4109097,Whole Blood,case/control: SLE Case,study group: High Only,sledai group: High
+GSM4109098,GSM4109098,Whole Blood,case/control: Control,study group: Control,sledai group: no val
+GSM4109099,GSM4109099,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109100,GSM4109100,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109101,GSM4109101,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109102,GSM4109102,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109103,GSM4109103,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109104,GSM4109104,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109105,GSM4109105,Whole Blood,case/control: SLE Case,study group: High Only,sledai group: High
+GSM4109106,GSM4109106,Whole Blood,case/control: SLE Case,study group: Low Only,sledai group: Low
+GSM4109107,GSM4109107,Whole Blood,case/control: SLE Case,study group: Low Only,sledai group: Low
+GSM4109108,GSM4109108,Whole Blood,case/control: SLE Case,study group: High Only,sledai group: High
+GSM4109109,GSM4109109,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109110,GSM4109110,Whole Blood,case/control: Control,study group: Control,sledai group: no val
+GSM4109111,GSM4109111,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109112,GSM4109112,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109113,GSM4109113,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109114,GSM4109114,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109115,GSM4109115,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109116,GSM4109116,Whole Blood,case/control: SLE Case,study group: Low Only,sledai group: Low
+GSM4109117,GSM4109117,Whole Blood,case/control: SLE Case,study group: High Only,sledai group: High
+GSM4109118,GSM4109118,Whole Blood,case/control: SLE Case,study group: High Only,sledai group: High
+GSM4109119,GSM4109119,Whole Blood,case/control: SLE Case,study group: Low Only,sledai group: Low
+GSM4109120,GSM4109120,Whole Blood,case/control: SLE Case,study group: Low Only,sledai group: Low
+GSM4109121,GSM4109121,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109122,GSM4109122,Whole Blood,case/control: Control,study group: Control,sledai group: no val
+GSM4109123,GSM4109123,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109124,GSM4109124,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109125,GSM4109125,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109126,GSM4109126,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109127,GSM4109127,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109128,GSM4109128,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109129,GSM4109129,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109130,GSM4109130,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109131,GSM4109131,Whole Blood,case/control: SLE Case,study group: Low Only,sledai group: Low
+GSM4109132,GSM4109132,Whole Blood,case/control: SLE Case,study group: Low Only,sledai group: Low
+GSM4109133,GSM4109133,Whole Blood,case/control: SLE Case,study group: High Only,sledai group: High
+GSM4109134,GSM4109134,Whole Blood,case/control: Control,study group: Control,sledai group: no val
+GSM4109135,GSM4109135,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109136,GSM4109136,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109137,GSM4109137,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109138,GSM4109138,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109139,GSM4109139,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109140,GSM4109140,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109141,GSM4109141,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109142,GSM4109142,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109143,GSM4109143,Whole Blood,case/control: SLE Case,study group: Low Only,sledai group: Low
+GSM4109144,GSM4109144,Whole Blood,case/control: SLE Case,study group: High Only,sledai group: High
+GSM4109145,GSM4109145,Whole Blood,case/control: SLE Case,study group: Low Only,sledai group: Low
+GSM4109146,GSM4109146,Whole Blood,case/control: Control,study group: Control,sledai group: no val
+GSM4109147,GSM4109147,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109148,GSM4109148,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109149,GSM4109149,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109150,GSM4109150,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109151,GSM4109151,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109152,GSM4109152,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109153,GSM4109153,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109154,GSM4109154,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109155,GSM4109155,Whole Blood,case/control: SLE Case,study group: Low Only,sledai group: Low
+GSM4109156,GSM4109156,Whole Blood,case/control: SLE Case,study group: High Only,sledai group: High
+GSM4109157,GSM4109157,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109158,GSM4109158,Whole Blood,case/control: Control,study group: Control,sledai group: no val
+GSM4109159,GSM4109159,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109160,GSM4109160,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109161,GSM4109161,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109162,GSM4109162,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109163,GSM4109163,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109164,GSM4109164,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109165,GSM4109165,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109166,GSM4109166,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109167,GSM4109167,Whole Blood,case/control: SLE Case,study group: Low Only,sledai group: Low
+GSM4109168,GSM4109168,Whole Blood,case/control: SLE Case,study group: High Only,sledai group: High
+GSM4109169,GSM4109169,Whole Blood,case/control: SLE Case,study group: High Only,sledai group: High
+GSM4109170,GSM4109170,Whole Blood,case/control: SLE Case,study group: High Only,sledai group: High
+GSM4109171,GSM4109171,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109172,GSM4109172,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109173,GSM4109173,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109174,GSM4109174,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109175,GSM4109175,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109176,GSM4109176,Whole Blood,case/control: SLE Case,study group: High Only,sledai group: High
+GSM4109177,GSM4109177,Whole Blood,case/control: SLE Case,study group: Low Only,sledai group: Low
+GSM4109178,GSM4109178,Whole Blood,case/control: SLE Case,study group: High Only,sledai group: High
+GSM4109179,GSM4109179,Whole Blood,case/control: SLE Case,study group: Low Only,sledai group: Low
+GSM4109180,GSM4109180,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109181,GSM4109181,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109182,GSM4109182,Whole Blood,case/control: Control,study group: Control,sledai group: no val
+GSM4109183,GSM4109183,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109184,GSM4109184,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109185,GSM4109185,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109186,GSM4109186,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109187,GSM4109187,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109188,GSM4109188,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109189,GSM4109189,Whole Blood,case/control: SLE Case,study group: High Only,sledai group: High
+GSM4109190,GSM4109190,Whole Blood,case/control: SLE Case,study group: Low Only,sledai group: Low
+GSM4109191,GSM4109191,Whole Blood,case/control: SLE Case,study group: Low Only,sledai group: Low
+GSM4109192,GSM4109192,Whole Blood,case/control: SLE Case,study group: High Only,sledai group: High
+GSM4109193,GSM4109193,Whole Blood,case/control: SLE Case,study group: Low Only,sledai group: Low
+GSM4109194,GSM4109194,Whole Blood,case/control: Control,study group: Control,sledai group: no val
+GSM4109195,GSM4109195,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109196,GSM4109196,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109197,GSM4109197,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109198,GSM4109198,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109199,GSM4109199,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109200,GSM4109200,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109201,GSM4109201,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109202,GSM4109202,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109203,GSM4109203,Whole Blood,case/control: SLE Case,study group: Low Only,sledai group: Low
+GSM4109204,GSM4109204,Whole Blood,case/control: SLE Case,study group: High Only,sledai group: High
+GSM4109205,GSM4109205,Whole Blood,case/control: SLE Case,study group: High Only,sledai group: High
+GSM4109206,GSM4109206,Whole Blood,case/control: Control,study group: Control,sledai group: no val
+GSM4109207,GSM4109207,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109208,GSM4109208,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109209,GSM4109209,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109210,GSM4109210,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109211,GSM4109211,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109212,GSM4109212,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109213,GSM4109213,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109214,GSM4109214,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109215,GSM4109215,Whole Blood,case/control: SLE Case,study group: Low Only,sledai group: Low
+GSM4109216,GSM4109216,Whole Blood,case/control: SLE Case,study group: High Only,sledai group: High
+GSM4109217,GSM4109217,Whole Blood,case/control: Control,study group: Control,sledai group: no val
+GSM4109218,GSM4109218,Whole Blood,case/control: SLE Case,study group: High Only,sledai group: High
+GSM4109219,GSM4109219,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109220,GSM4109220,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109221,GSM4109221,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109222,GSM4109222,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109223,GSM4109223,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109224,GSM4109224,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109225,GSM4109225,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109226,GSM4109226,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109227,GSM4109227,Whole Blood,case/control: SLE Case,study group: High Only,sledai group: High
+GSM4109228,GSM4109228,Whole Blood,case/control: SLE Case,study group: Low Only,sledai group: Low
+GSM4109229,GSM4109229,Whole Blood,case/control: SLE Case,study group: High Only,sledai group: High
+GSM4109230,GSM4109230,Whole Blood,case/control: Control,study group: Control,sledai group: no val
+GSM4109231,GSM4109231,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109232,GSM4109232,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109233,GSM4109233,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109234,GSM4109234,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109235,GSM4109235,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109236,GSM4109236,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109237,GSM4109237,Whole Blood,case/control: SLE Case,study group: High Only,sledai group: High
+GSM4109238,GSM4109238,Whole Blood,case/control: SLE Case,study group: Low Only,sledai group: Low
+GSM4109239,GSM4109239,Whole Blood,case/control: SLE Case,study group: Low Only,sledai group: Low
+GSM4109240,GSM4109240,Whole Blood,case/control: SLE Case,study group: High Only,sledai group: High
+GSM4109241,GSM4109241,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109242,GSM4109242,Whole Blood,case/control: Control,study group: Control,sledai group: no val
+GSM4109243,GSM4109243,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109244,GSM4109244,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109245,GSM4109245,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109246,GSM4109246,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109247,GSM4109247,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109248,GSM4109248,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109249,GSM4109249,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109250,GSM4109250,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109251,GSM4109251,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109252,GSM4109252,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109253,GSM4109253,Whole Blood,case/control: SLE Case,study group: High Only,sledai group: High
+GSM4109254,GSM4109254,Whole Blood,case/control: SLE Case,study group: Low Only,sledai group: Low
+GSM4109255,GSM4109255,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109256,GSM4109256,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109257,GSM4109257,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109258,GSM4109258,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109259,GSM4109259,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109260,GSM4109260,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109261,GSM4109261,Whole Blood,case/control: SLE Case,study group: Low Only,sledai group: Low
+GSM4109262,GSM4109262,Whole Blood,case/control: SLE Case,study group: Low Only,sledai group: Low
+GSM4109263,GSM4109263,Whole Blood,case/control: SLE Case,study group: High Only,sledai group: High
+GSM4109264,GSM4109264,Whole Blood,case/control: SLE Case,study group: Low Only,sledai group: Low
+GSM4109265,GSM4109265,Whole Blood,case/control: SLE Case,study group: High Only,sledai group: High
+GSM4109266,GSM4109266,Whole Blood,case/control: Control,study group: Control,sledai group: no val
+GSM4109267,GSM4109267,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109268,GSM4109268,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109269,GSM4109269,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109270,GSM4109270,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109271,GSM4109271,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109272,GSM4109272,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109273,GSM4109273,Whole Blood,case/control: SLE Case,study group: Low Only,sledai group: Low
+GSM4109274,GSM4109274,Whole Blood,case/control: SLE Case,study group: High Only,sledai group: High
+GSM4109275,GSM4109275,Whole Blood,case/control: SLE Case,study group: Low Only,sledai group: Low
+GSM4109276,GSM4109276,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109277,GSM4109277,Whole Blood,case/control: SLE Case,study group: High Only,sledai group: High
+GSM4109278,GSM4109278,Whole Blood,case/control: Control,study group: Control,sledai group: no val
+GSM4109279,GSM4109279,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109280,GSM4109280,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109281,GSM4109281,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109282,GSM4109282,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109283,GSM4109283,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109284,GSM4109284,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109285,GSM4109285,Whole Blood,case/control: SLE Case,study group: Low Only,sledai group: Low
+GSM4109286,GSM4109286,Whole Blood,case/control: SLE Case,study group: Low Only,sledai group: Low
+GSM4109287,GSM4109287,Whole Blood,case/control: SLE Case,study group: High Only,sledai group: High
+GSM4109288,GSM4109288,Whole Blood,case/control: SLE Case,study group: High Only,sledai group: High
+GSM4109289,GSM4109289,Whole Blood,case/control: SLE Case,study group: High Only,sledai group: High
+GSM4109290,GSM4109290,Whole Blood,case/control: Control,study group: Control,sledai group: no val
+GSM4109291,GSM4109291,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109292,GSM4109292,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109293,GSM4109293,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109294,GSM4109294,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109295,GSM4109295,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109296,GSM4109296,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109297,GSM4109297,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109298,GSM4109298,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109299,GSM4109299,Whole Blood,case/control: SLE Case,study group: Low Only,sledai group: Low
+GSM4109300,GSM4109300,Whole Blood,case/control: SLE Case,study group: High Only,sledai group: High
+GSM4109301,GSM4109301,Whole Blood,case/control: SLE Case,study group: Low Only,sledai group: Low
+GSM4109302,GSM4109302,Whole Blood,case/control: Control,study group: Control,sledai group: no val
+GSM4109303,GSM4109303,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109304,GSM4109304,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109305,GSM4109305,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109306,GSM4109306,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109307,GSM4109307,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109308,GSM4109308,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109309,GSM4109309,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109310,GSM4109310,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109311,GSM4109311,Whole Blood,case/control: SLE Case,study group: High Only,sledai group: High
+GSM4109312,GSM4109312,Whole Blood,case/control: SLE Case,study group: High Only,sledai group: High
+GSM4109313,GSM4109313,Whole Blood,case/control: SLE Case,study group: Low Only,sledai group: Low
+GSM4109314,GSM4109314,Whole Blood,case/control: Control,study group: Control,sledai group: no val
+GSM4109315,GSM4109315,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109316,GSM4109316,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109317,GSM4109317,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109318,GSM4109318,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109319,GSM4109319,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109320,GSM4109320,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109321,GSM4109321,Whole Blood,case/control: SLE Case,study group: High Only,sledai group: High
+GSM4109322,GSM4109322,Whole Blood,case/control: SLE Case,study group: Low Only,sledai group: Low
+GSM4109323,GSM4109323,Whole Blood,case/control: SLE Case,study group: High Only,sledai group: High
+GSM4109324,GSM4109324,Whole Blood,case/control: SLE Case,study group: Low Only,sledai group: Low
+GSM4109325,GSM4109325,Whole Blood,case/control: SLE Case,study group: High Only,sledai group: High
+GSM4109326,GSM4109326,Whole Blood,case/control: SLE Case,study group: Low Only,sledai group: Low
+GSM4109327,GSM4109327,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109328,GSM4109328,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109329,GSM4109329,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109330,GSM4109330,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109331,GSM4109331,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109332,GSM4109332,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109333,GSM4109333,Whole Blood,case/control: SLE Case,study group: High Only,sledai group: High
+GSM4109334,GSM4109334,Whole Blood,case/control: SLE Case,study group: Low Only,sledai group: Low
+GSM4109335,GSM4109335,Whole Blood,case/control: SLE Case,study group: Low Only,sledai group: Low
+GSM4109336,GSM4109336,Whole Blood,case/control: SLE Case,study group: High Only,sledai group: High
+GSM4109337,GSM4109337,Whole Blood,case/control: SLE Case,study group: Low Only,sledai group: Low
+GSM4109338,GSM4109338,Whole Blood,case/control: Control,study group: Control,sledai group: no val
+GSM4109339,GSM4109339,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109340,GSM4109340,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109341,GSM4109341,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109342,GSM4109342,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109343,GSM4109343,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109344,GSM4109344,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109345,GSM4109345,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109346,GSM4109346,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109347,GSM4109347,Whole Blood,case/control: SLE Case,study group: High Only,sledai group: High
+GSM4109348,GSM4109348,Whole Blood,case/control: SLE Case,study group: High Only,sledai group: High
+GSM4109349,GSM4109349,Whole Blood,case/control: SLE Case,study group: Low Only,sledai group: Low
+GSM4109350,GSM4109350,Whole Blood,case/control: Control,study group: Control,sledai group: no val
+GSM4109351,GSM4109351,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109352,GSM4109352,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109353,GSM4109353,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109354,GSM4109354,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109355,GSM4109355,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: Low
+GSM4109356,GSM4109356,Whole Blood,case/control: SLE Case,study group: High/Low,sledai group: High
+GSM4109357,GSM4109357,Whole Blood,case/control: SLE Case,study group: Low Only,sledai group: Low
+GSM4109358,GSM4109358,Whole Blood,case/control: SLE Case,study group: Low Only,sledai group: Low
+GSM4109359,GSM4109359,Whole Blood,case/control: SLE Case,study group: High Only,sledai group: High
+GSM4109360,GSM4109360,Whole Blood,case/control: SLE Case,study group: Low Only,sledai group: Low
+GSM4109361,GSM4109361,Whole Blood,case/control: SLE Case,study group: High Only,sledai group: High
+GSM4109362,GSM4109362,Whole Blood,case/control: Control,study group: Control,sledai group: no val
