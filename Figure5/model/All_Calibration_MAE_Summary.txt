@@ -1,0 +1,6 @@
+Cohort	SampleSize	MAE
+Training_Cohort	192	NA
+GSE251778_Male	64	NA
+GSE251778_Female	105	NA
+GSE251778_Combined	169	NA
+GSE52790	22	NA
