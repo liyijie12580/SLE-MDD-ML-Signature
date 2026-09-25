@@ -1,0 +1,9 @@
+"","gene","drug","regulatory approval","indication","interaction score"
+"1","IFI27","D VITAMIN","Not Approved","",1.76439964977609
+"2","IFI27","TNF-ALPHA","Not Approved","",1.10274978111006
+"3","IFI27","RECOMBINANT TRANSFORMING GROWTH FACTOR-BETA 1","Not Approved","",1.26028546412578
+"4","HP","VACCINE","Not Approved","",1.60399968161463
+"5","HP","HEPATITIS B VACCINE","Not Approved","",8.82199824888045
+"6","HP","MIGALASTAT","Approved","for treatment of Fabry disease,enzyme replacement therapy",3.52879929955218
+"7","HP","VITAMIN B6","Approved","",2.94066608296015
+"8","CEACAM6","ANTISERUM","Not Approved","",3.02468511390187

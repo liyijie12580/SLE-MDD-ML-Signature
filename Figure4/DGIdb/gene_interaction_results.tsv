@@ -1,0 +1,12 @@
+gene	drug	regulatory approval	indication	interaction score
+IFI27	D VITAMIN	Not Approved	""	1.764399649776091
+IFI27	RETINOIC ACID AGENT	Not Approved	""	0.8537417660206892
+IFI27	TNF-ALPHA	Not Approved	""	1.102749781110056
+IFI27	RECOMBINANT TRANSFORMING GROWTH FACTOR-BETA 1	Not Approved	""	1.260285464125779
+HP	VACCINE	Not Approved	""	1.603999681614628
+HP	HEPATITIS B VACCINE	Not Approved	""	8.821998248880455
+HP	STREPTOZOCIN	Approved	""	0.3835651412556719
+HP	MIGALASTAT	Approved	for treatment of Fabry disease,enzyme replacement therapy	3.528799299552182
+HP	VITAMIN B6	Approved	""	2.940666082960152
+HP	ESTRADIOL VALERATE	Approved	for treatment of menopausal symptoms,contraceptive,treatment for menopause,hormone replacement	0.3920888110613535
+CEACAM6	ANTISERUM	Not Approved	""	3.02468511390187
